@@ -1,0 +1,60 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.bak
+*.log
+
+# ASP.NET Core
+wwwroot/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs/
+*.log
+
+# Build results
+bin/
+obj/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.dotnet/
+*.vs/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/ 
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configuration files
+*.config
+*.ini
+
+# Environment files
+.env
