@@ -34,5 +34,5 @@ This project demonstrates a clean architecture using Domain-Driven Design (DDD) 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/kaleemiqbal4/DOTNET-CQRS.git
+   cd DOTNET-CQRS
